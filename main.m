@@ -1,4 +1,4 @@
-%Author:Batuhan Toker #25981
+%Author:Batuhan Toker 
 %Written for CS512 HW #3
 clc; clear
 mu_1=2;
